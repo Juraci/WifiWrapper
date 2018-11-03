@@ -28,5 +28,5 @@ The `waitForConnection()` method is a while loop that only exits after the conne
 
 ## Real use case examples
 
-[Temperature detection](https://github.com/Juraci/temperature-detection/blob/master/temperature-detection.ino)
-[Motion Detection](https://github.com/Juraci/motion-detection/blob/master/motion-detection.ino)
+- [Temperature detection](https://github.com/Juraci/temperature-detection/blob/master/temperature-detection.ino)
+- [Motion Detection](https://github.com/Juraci/motion-detection/blob/master/motion-detection.ino)
