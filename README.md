@@ -25,3 +25,7 @@ void loop() {
 ## Details
 
 The `waitForConnection()` method is a while loop that only exits after the connection has been established, this should be called to stablish the initial connection and also on the main loop to guarantee that the conneciton will be resstablished in case of instability.
+
+## Real use case example
+
+[Temperature detection](https://github.com/Juraci/temperature-detection/blob/master/temperature-detection.ino)
