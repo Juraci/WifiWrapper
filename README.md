@@ -7,6 +7,7 @@ Thin wrapper for ESP8266WiFi library, mainly used to reduce the amount of code i
 ## How to use
 
 ```c++
+#include <WifiWrapper.h>
 
 char* ssid = "____";
 char* password = "____";
